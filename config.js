@@ -3,47 +3,47 @@ module.exports = {
     {
       'key': 'google',
       'proxied': 'https://www.google.com/',
-      'proxying': 'google.upupming.site'
+      // 'proxying': 'google.upupming.site'
     },
     {
       'key': 'scholar.google',
       'proxied': 'https://scholar.google.com/',
-      'proxying': 'scholar.google.upupming.site'
+      // 'proxying': 'scholar.google.upupming.site'
     },
     {
       'key': 'maps.google',
       'proxied': 'https://maps.google.com/',
-      'proxying': 'maps.google.upupming.site'
+      // 'proxying': 'maps.google.upupming.site'
     },
     {
       'key': 'translate.google',
       'proxied': 'https://translate.google.com/',
-      'proxying': 'translate.google.upupming.site'
+      // 'proxying': 'translate.google.upupming.site'
     },
     {
       'key': 'docs.google',
       'proxied': 'https://docs.google.com/',
-      'proxying': 'docs.google.upupming.site'
+      // 'proxying': 'docs.google.upupming.site'
     },
     {
       'key': 'drive.google',
       'proxied': 'https://drive.google.com/',
-      'proxying': 'drive.google.upupming.site'
+      // 'proxying': 'drive.google.upupming.site'
     },
     {
       'key': 'code.google',
       'proxied': 'https://code.google.com/',
-      'proxying': 'code.google.upupming.site'
+      // 'proxying': 'code.google.upupming.site'
     },
     {
       'key': 'wiki',
       'proxied': 'https://zh.wikipedia.org/',
-      'proxying': 'wiki.upupming.site'
+      // 'proxying': 'wiki.upupming.site'
     },
     {
       'key': 'mwiki',
       'proxied': 'https://zh.m.wikipedia.org/',
-      'proxying': 'mwiki.upupming.site'
+      // 'proxying': 'mwiki.upupming.site'
     }
   ]
 }
